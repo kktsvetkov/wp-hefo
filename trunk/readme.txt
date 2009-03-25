@@ -1,4 +1,4 @@
-=== Batch Links ===
+=== Wp-Hefo ===
 Contributors: Mrasnika
 Tags: header, footer, snippet, html code, js code, wp_head, wp_footer
 Requires at least: 2.0
